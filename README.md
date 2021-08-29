@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screen](/screen.png)
+![screen](screen.png)
 
 
 
