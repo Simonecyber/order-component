@@ -25,10 +25,7 @@ body{
     align-items: center;
     height: 100vh;
     background-image: url("/images/pattern-background-desktop.svg");
-    background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
-    background-position-y: -40vh;
     background-color: var(--primary-paleblue);
 }
 
