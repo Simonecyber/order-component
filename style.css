@@ -142,7 +142,7 @@ body{
     height: auto;
     padding: 1.2vh 0 1.2vh 0;
     align-items: center;
-    box-shadow:0 4px 20px var(--primary-brightblue);
+    box-shadow:0 8px 6px -6px var(--primary-brightblue);
     border-radius: 10px;
     background-color: var(--primary-brightblue);
     color:var(--primary-paleblue);
